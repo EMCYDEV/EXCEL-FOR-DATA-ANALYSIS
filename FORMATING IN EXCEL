@@ -1,0 +1,17 @@
+HERE There are 6 worksheets;
+
+1.	Data Summary worksheet was formatted in the following manner:
+a.	The Main Title was formatted to be bold, font size 16, color Red, and centralized above the table by merging cells
+b.	All table headers were bold, font size 11, background color very light grey
+c.	Fund Number column (excluding the header) was given a very light blue background color
+d.	The table (including the header) was given a border both inside and on the boundary
+e.	All text and numbers were left-aligned, and each column was in equal spacing (i.e, the width of the widest column)
+All other worksheets were formatted in the following manner:
+a. The main title was bold, font size 16, colored red, and centralized above the table by merging cells.
+b. Table headers in the first column were bold, font size 11, with a very light grey background color.
+c. All text and numbers were left-aligned, and each column was adjusted to equal spacing based on the width of the widest column.
+d. The table, including the header, had borders both inside and along the boundary.
+
+Sparkline graphs were created in the Sparklines column for the data in each row on the Data Summary sheet, using a chosen sparkline format.
+
+Each Fund Number in the Fund Number column was converted into a hyperlink pointing to the corresponding worksheet. For example, Fund Number A-13 became a link that directed to worksheet A-13.
